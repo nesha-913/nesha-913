@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nesha Dharmarathna</h1>
-<h3 align="center">A passionate Web & App Developer | UI/UX Enthusiast from Sri Lanka</h3>
+<h3 align="center">A passionate Web Developer | UI/UX Enthusiast from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nesha-913&label=Profile%20views&color=0e75b6&style=flat" alt="nesha-913" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **java,python**
 
-- 👯 I’m looking to collaborate on **Web Applications, Mobile Applications, UI/UX Design Projects, and MERN Stack Projects**
+- 👯 I’m looking to collaborate on **Web Applications, UI/UX Design Projects, and MERN Stack Projects**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, and MERN Stack Development**
 
